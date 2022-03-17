@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "4ef1a78acabea3fbd227",
-    "url": "/ele-static-page/static/css/main.9ac3b8a7.chunk.css"
+    "revision": "f2933db6d9ed7924962e",
+    "url": "/ele-static-page/static/css/main.5fa6acff.chunk.css"
   },
   {
-    "revision": "4ef1a78acabea3fbd227",
+    "revision": "f2933db6d9ed7924962e",
     "url": "/ele-static-page/static/js/main.83dc2633.chunk.js"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/ele-static-page/static/media/default_icon.8c2f9a49.jpeg"
   },
   {
-    "revision": "9aef75e0634cce7678fbab70be631f4c",
+    "revision": "6032cc8c9feaac33b281060f6e9dcd6a",
     "url": "/ele-static-page/index.html"
   }
 ];
