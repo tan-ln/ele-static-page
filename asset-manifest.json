@@ -1,14 +1,14 @@
 {
-  "main.css": "/ele-static-page/static/css/main.a9f925f6.chunk.css",
-  "main.js": "/ele-static-page/static/js/main.4fd19708.chunk.js",
-  "main.js.map": "/ele-static-page/static/js/main.4fd19708.chunk.js.map",
+  "main.css": "/ele-static-page/static/css/main.c151b946.chunk.css",
+  "main.js": "/ele-static-page/static/js/main.98893195.chunk.js",
+  "main.js.map": "/ele-static-page/static/js/main.98893195.chunk.js.map",
   "runtime~main.js": "/ele-static-page/static/js/runtime~main.c2475d31.js",
   "runtime~main.js.map": "/ele-static-page/static/js/runtime~main.c2475d31.js.map",
   "static/js/2.28e83ac4.chunk.js": "/ele-static-page/static/js/2.28e83ac4.chunk.js",
   "static/js/2.28e83ac4.chunk.js.map": "/ele-static-page/static/js/2.28e83ac4.chunk.js.map",
   "index.html": "/ele-static-page/index.html",
-  "precache-manifest.7a47ca45fb07bddf1118122343165769.js": "/ele-static-page/precache-manifest.7a47ca45fb07bddf1118122343165769.js",
+  "precache-manifest.7016dad5485164b8088a6d89e3abf911.js": "/ele-static-page/precache-manifest.7016dad5485164b8088a6d89e3abf911.js",
   "service-worker.js": "/ele-static-page/service-worker.js",
-  "static/css/main.a9f925f6.chunk.css.map": "/ele-static-page/static/css/main.a9f925f6.chunk.css.map",
+  "static/css/main.c151b946.chunk.css.map": "/ele-static-page/static/css/main.c151b946.chunk.css.map",
   "static/media/default_icon.jpeg": "/ele-static-page/static/media/default_icon.8c2f9a49.jpeg"
 }
