@@ -1,5 +1,5 @@
 {
-  "main.css": "/ele-static-page/static/css/main.e0607427.chunk.css",
+  "main.css": "/ele-static-page/static/css/main.ccf24dbd.chunk.css",
   "main.js": "/ele-static-page/static/js/main.83dc2633.chunk.js",
   "main.js.map": "/ele-static-page/static/js/main.83dc2633.chunk.js.map",
   "runtime~main.js": "/ele-static-page/static/js/runtime~main.c2475d31.js",
@@ -7,8 +7,8 @@
   "static/js/2.28e83ac4.chunk.js": "/ele-static-page/static/js/2.28e83ac4.chunk.js",
   "static/js/2.28e83ac4.chunk.js.map": "/ele-static-page/static/js/2.28e83ac4.chunk.js.map",
   "index.html": "/ele-static-page/index.html",
-  "precache-manifest.252269faa3b4b94033d7dd4614157bb0.js": "/ele-static-page/precache-manifest.252269faa3b4b94033d7dd4614157bb0.js",
+  "precache-manifest.28a1156a9ac588d4b961759fc0283fec.js": "/ele-static-page/precache-manifest.28a1156a9ac588d4b961759fc0283fec.js",
   "service-worker.js": "/ele-static-page/service-worker.js",
-  "static/css/main.e0607427.chunk.css.map": "/ele-static-page/static/css/main.e0607427.chunk.css.map",
+  "static/css/main.ccf24dbd.chunk.css.map": "/ele-static-page/static/css/main.ccf24dbd.chunk.css.map",
   "static/media/default_icon.jpeg": "/ele-static-page/static/media/default_icon.8c2f9a49.jpeg"
 }
